@@ -1,0 +1,20 @@
+2023-04-24 21:47:31,856 [INFO] Target columns '(30)' and '(31)' were merged
+2023-04-24 21:47:31,857 [INFO] 92 count insignificant rows were deleted (where values of '(29)' and '(30)' is nan)
+2023-04-24 21:47:31,867 [WARNING] Find 8 categorical columns (< 24% unique values): '(0)', '(1)', '(19)', '(20)', '(21)', '(22)', '(27)', '(28)'
+2023-04-24 21:47:31,867 [WARNING] Columns '(9)', '(22)', '(25)', '(27)' (with missing rate > 30)  were deleted
+2023-04-24 21:47:31,868 [INFO] Missing values of columns '(0)', '(1)', '(2)', '(3)', '(4)', '(5)', '(6)', '(7)', '(8)', '(10)', '(11)', '(12)', '(13)', '(14)', '(15)', '(16)', '(17)', '(18)', '(19)', '(20)', '(21)', '(23)', '(24)', '(26)', '(28)' were filled
+2023-04-24 21:48:19,241 [INFO] 11 outliers were deleted
+2023-04-24 21:48:19,246 [INFO] Column '(3)' correlated (0.925) with '(2)' 
+2023-04-24 21:48:19,670 [INFO] Column '(5)' correlated (0.999) with '(2)' 
+2023-04-24 21:48:20,078 [INFO] Column '(5)' correlated (0.921) with '(3)' 
+2023-04-24 21:48:20,487 [INFO] Column '(6)' correlated (0.947) with '(2)' 
+2023-04-24 21:48:20,893 [INFO] Column '(6)' correlated (0.973) with '(3)' 
+2023-04-24 21:48:21,294 [INFO] Column '(6)' correlated (0.946) with '(5)' 
+2023-04-24 21:48:21,682 [INFO] Column '(7)' correlated (0.976) with '(4)' 
+2023-04-24 21:48:22,076 [INFO] Column '(15)' correlated (0.994) with '(12)' 
+2023-04-24 21:48:22,462 [INFO] Column '(16)' correlated (0.956) with '(12)' 
+2023-04-24 21:48:22,841 [INFO] Column '(16)' correlated (0.944) with '(15)' 
+2023-04-24 21:48:23,215 [INFO] Column '(17)' correlated (0.933) with '(13)' 
+2023-04-24 21:48:23,578 [INFO] Column '(18)' correlated (0.981) with '(14)' 
+2023-04-24 21:48:23,964 [INFO] Column '(24)' correlated (1.0) with '(23)' 
+2023-04-24 21:48:24,371 [INFO] Columns '2', '3', '4', '6', '11', '12', '13', '15', '21' can be deleted

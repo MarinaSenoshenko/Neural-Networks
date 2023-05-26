@@ -1,0 +1,5 @@
+Total number: 2500 epochs
+Time learning: 103.44075653166666 minutes
+Test MS-Error: 0.00989
+RMS-Error: 0.01269
+R^2 score: 0.92570

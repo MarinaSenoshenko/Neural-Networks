@@ -1,0 +1,7 @@
+Total number: 21500 epochs
+Time learning: 6.492557140000001 minutes
+Test MS-Error: 0.00982
+G_total RMS-Error: 0.10507
+Kgf RMS-Error: 0.09276
+G_total R^2 score: 0.69473
+Kgf R^2 score: 0.82570
